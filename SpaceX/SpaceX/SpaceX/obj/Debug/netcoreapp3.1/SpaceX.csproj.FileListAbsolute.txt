@@ -1,0 +1,13 @@
+C:\Learning\CSharp\SpaceX\SpaceX\SpaceX\bin\Debug\netcoreapp3.1\SpaceX.exe
+C:\Learning\CSharp\SpaceX\SpaceX\SpaceX\bin\Debug\netcoreapp3.1\SpaceX.deps.json
+C:\Learning\CSharp\SpaceX\SpaceX\SpaceX\bin\Debug\netcoreapp3.1\SpaceX.runtimeconfig.json
+C:\Learning\CSharp\SpaceX\SpaceX\SpaceX\bin\Debug\netcoreapp3.1\SpaceX.runtimeconfig.dev.json
+C:\Learning\CSharp\SpaceX\SpaceX\SpaceX\bin\Debug\netcoreapp3.1\SpaceX.dll
+C:\Learning\CSharp\SpaceX\SpaceX\SpaceX\bin\Debug\netcoreapp3.1\SpaceX.pdb
+C:\Learning\CSharp\SpaceX\SpaceX\SpaceX\obj\Debug\netcoreapp3.1\SpaceX.csprojAssemblyReference.cache
+C:\Learning\CSharp\SpaceX\SpaceX\SpaceX\obj\Debug\netcoreapp3.1\SpaceX.AssemblyInfoInputs.cache
+C:\Learning\CSharp\SpaceX\SpaceX\SpaceX\obj\Debug\netcoreapp3.1\SpaceX.AssemblyInfo.cs
+C:\Learning\CSharp\SpaceX\SpaceX\SpaceX\obj\Debug\netcoreapp3.1\SpaceX.csproj.CoreCompileInputs.cache
+C:\Learning\CSharp\SpaceX\SpaceX\SpaceX\obj\Debug\netcoreapp3.1\SpaceX.dll
+C:\Learning\CSharp\SpaceX\SpaceX\SpaceX\obj\Debug\netcoreapp3.1\SpaceX.pdb
+C:\Learning\CSharp\SpaceX\SpaceX\SpaceX\obj\Debug\netcoreapp3.1\SpaceX.genruntimeconfig.cache

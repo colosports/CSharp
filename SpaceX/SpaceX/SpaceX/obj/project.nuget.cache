@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qq4qnLy9qnrn3ESJndkKe78kz4PBvljE8JGGdA746mAaC3U5qZ/4MrQw43K7B0IvBr1pYY2QB0cX2XrFsNLMEA==",
+  "success": true,
+  "projectFilePath": "C:\\Learning\\CSharp\\SpaceX\\SpaceX\\SpaceX\\SpaceX.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\e5617187\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

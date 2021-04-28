@@ -1,0 +1,2 @@
+C:\Users\e5617187\source\repos\Casting\obj\Debug\Casting.csprojAssemblyReference.cache
+C:\Users\e5617187\source\repos\Casting\obj\Debug\Casting.csproj.CoreCompileInputs.cache

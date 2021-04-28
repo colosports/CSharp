@@ -1,0 +1,7 @@
+C:\git_repos\CSharp\Inheritance2\obj\Debug\Inheritance2.csproj.CoreCompileInputs.cache
+C:\git_repos\CSharp\Inheritance2\bin\Debug\Inheritance2.exe.config
+C:\git_repos\CSharp\Inheritance2\bin\Debug\Inheritance2.exe
+C:\git_repos\CSharp\Inheritance2\bin\Debug\Inheritance2.pdb
+C:\git_repos\CSharp\Inheritance2\obj\Debug\Inheritance2.exe
+C:\git_repos\CSharp\Inheritance2\obj\Debug\Inheritance2.pdb
+C:\git_repos\CSharp\Inheritance2\obj\Debug\Inheritance2.csprojAssemblyReference.cache

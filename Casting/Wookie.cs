@@ -8,7 +8,7 @@ namespace Casting
 {
     class Wookie
     {
-        public string Name;
+        public string Name { get; set; }
         
         public  Wookie(string name)
         {

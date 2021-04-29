@@ -11,8 +11,9 @@ namespace Casting
         static void Main(string[] args)
         {
             var wookie = new Wookie("Chewbacca");
-            var ewok = new Ewok("Chirpa");
+            var ewok = new Ewok ("Chirpa");
 
+            
 
         }
     }

@@ -10,7 +10,7 @@ namespace Casting
     {
         public Ewok(string name) : base(name);
         {
-            Name = Wookie.Name;
+            base.name = Wookie.Name;
             MakeClothes();
         }
 

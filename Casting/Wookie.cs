@@ -8,16 +8,22 @@ namespace Casting
 {
     class Wookie
     {
-        public string Name { get; set; }
-        
+        private string _name;
+
+        public string Name
+        {
+            get { return _name; }
+        }
+
+
         public  Wookie(string name)
         {
-            Name = name;
+            _name = name;
         }
 
         public void PilotShip()
         {
-            Console.WriteLine("Ship started by" + Name);
+            Console.WriteLine("Ship started by " + Name);
         }
     }
 }

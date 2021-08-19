@@ -13,8 +13,17 @@ namespace Casting
             var wookie = new Wookie("Chewbacca");
             var ewok = new Ewok ("Chirpa");
 
-            
+            void FlyShip(Wookie w1)
+            {
+                w1.PilotShip();
+            }
+            FlyShip(wookie);
 
+            void MakeClothes(Ewok e1)
+            {
+                e1.MakeClothes();
+            }
+            MakeClothes(ewok);
         }
     }
 }

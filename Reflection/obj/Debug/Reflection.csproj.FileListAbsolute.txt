@@ -1,0 +1,14 @@
+C:\Users\e5586685\OneDrive - FIS\Documents\Training\CSharpTraining\Inheritance2\OverrideAndAbstract\OverrideAndAbstract\obj\Debug\Reflection.csprojAssemblyReference.cache
+C:\Users\e5586685\OneDrive - FIS\Documents\Training\CSharpTraining\Inheritance2\OverrideAndAbstract\OverrideAndAbstract\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+C:\Users\e5586685\OneDrive - FIS\Documents\Training\CSharpTraining\Inheritance2\OverrideAndAbstract\OverrideAndAbstract\obj\Debug\OverrideAndAbstract.exe
+C:\Users\e5586685\OneDrive - FIS\Documents\Training\CSharpTraining\Inheritance2\OverrideAndAbstract\OverrideAndAbstract\obj\Debug\OverrideAndAbstract.pdb
+C:\Users\e5586685\OneDrive - FIS\Documents\Training\CSharpTraining\Inheritance2\OverrideAndAbstract\OverrideAndAbstract\bin\Debug\OverrideAndAbstract.exe.config
+C:\Users\e5586685\OneDrive - FIS\Documents\Training\CSharpTraining\Inheritance2\OverrideAndAbstract\OverrideAndAbstract\bin\Debug\OverrideAndAbstract.exe
+C:\Users\e5586685\OneDrive - FIS\Documents\Training\CSharpTraining\Inheritance2\OverrideAndAbstract\OverrideAndAbstract\bin\Debug\OverrideAndAbstract.pdb
+C:\Learning\Reflection\bin\Debug\OverrideAndAbstract.exe.config
+C:\Learning\Reflection\bin\Debug\OverrideAndAbstract.exe
+C:\Learning\Reflection\bin\Debug\OverrideAndAbstract.pdb
+C:\Learning\Reflection\obj\Debug\Reflection.csprojAssemblyReference.cache
+C:\Learning\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+C:\Learning\Reflection\obj\Debug\OverrideAndAbstract.exe
+C:\Learning\Reflection\obj\Debug\OverrideAndAbstract.pdb

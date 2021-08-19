@@ -8,15 +8,14 @@ namespace Casting
 {
     class Ewok : Wookie
     {
-        public Ewok(string name) : base(name);
+        public Ewok(string name) : base(name)
         {
-            base.name = Wookie.Name;
-            MakeClothes();
+            //pass
         }
 
         public void MakeClothes()
         {
-            Console.WriteLine(Name + " just finished your clothes");
+            Console.WriteLine(base.Name + " just finished your clothes");
         }
 
     }
